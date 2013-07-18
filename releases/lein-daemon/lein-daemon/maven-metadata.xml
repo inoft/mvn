@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>lein-daemon</groupId>
+  <artifactId>lein-daemon</artifactId>
+  <versioning>
+    <release>0.5.4-inoft</release>
+    <versions>
+      <version>0.5.4-inoft</version>
+    </versions>
+    <lastUpdated>20130718075829</lastUpdated>
+  </versioning>
+</metadata>
