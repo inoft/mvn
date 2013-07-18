@@ -15,7 +15,7 @@
   <scm>
     <connection>scm:git:git://github.com/inoft/lein-daemon.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/inoft/lein-daemon.git</developerConnection>
-    <tag>cc9e79c6c06aa098f5996f2531702d3e0066207b</tag>
+    <tag>3a12ddbb88369ab42c9982e9e675a5c62494eb76</tag>
     <url>https://github.com/inoft/lein-daemon</url>
   </scm>
   <build>
@@ -63,13 +63,31 @@
     <dependency>
       <groupId>bond</groupId>
       <artifactId>bond</artifactId>
-      <version>0.2.3</version>
+      <version>0.2.5</version>
       <exclusions>
         <exclusion>
           <groupId>org.clojure</groupId>
           <artifactId>clojure</artifactId>
         </exclusion>
       </exclusions>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>lein-daemon-runtime</groupId>
+      <artifactId>lein-daemon-runtime</artifactId>
+      <version>0.5.0</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>clojure</artifactId>
+      <version>1.5.1</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>clojure-contrib</artifactId>
+      <version>1.2.0</version>
       <scope>test</scope>
     </dependency>
     <dependency>
