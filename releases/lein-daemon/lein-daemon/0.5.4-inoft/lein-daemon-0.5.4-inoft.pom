@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>lein-daemon</groupId>
   <artifactId>lein-daemon</artifactId>
@@ -16,7 +15,7 @@
   <scm>
     <connection>scm:git:git://github.com/inoft/lein-daemon.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/inoft/lein-daemon.git</developerConnection>
-    <tag>dfa4e0bf38974b91717e5517bd2279c769ea6c46</tag>
+    <tag>cc9e79c6c06aa098f5996f2531702d3e0066207b</tag>
     <url>https://github.com/inoft/lein-daemon</url>
   </scm>
   <build>
