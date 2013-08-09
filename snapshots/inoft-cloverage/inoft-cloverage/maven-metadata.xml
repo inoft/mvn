@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>inoft-lein-cloverage</groupId>
-  <artifactId>inoft-lein-cloverage</artifactId>
+  <groupId>inoft-cloverage</groupId>
+  <artifactId>inoft-cloverage</artifactId>
   <versioning>
     <versions>
       <version>1.0.4-SNAPSHOT</version>
