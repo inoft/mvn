@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>inoft-lein-cloverage</groupId>
+  <artifactId>inoft-lein-cloverage</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130809090906</lastUpdated>
+  </versioning>
+</metadata>
